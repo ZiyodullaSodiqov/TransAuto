@@ -261,3 +261,82 @@
     line-height: 26px;
     color: #000000;
 }
+.DivsMain{
+    transform: translateY(1800px);
+}
+.DivsMain > h2{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    transform: translateY(20px);
+}
+.boxOne{
+    transform: translateX(250px) translateY(50px);
+    width: 950px;
+    height: 116px;
+    border: 1px solid #C4C9D5;
+}
+.boxTwo{
+    transform: translateX(250px) translateY(80px);
+    width: 950px;
+    height: 140px;
+    border: 1px solid #C4C9D5;
+}
+.boxOne > h3{
+    transform: translate(40px , 40px);
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 35px;
+    color: #5374CA;
+}
+.boxOne > p{
+    transform: translateX(300px) translateY(10px);
+    font-weight: 400;
+    width: 700px;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;;
+}
+.boxTwo > h3{
+    transform: translate(40px , 40px);
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 35px;
+    color: #5374CA;
+}
+.boxTwo > p{
+    transform: translateX(300px) translateY(10px);
+    font-weight: 400;
+    width: 700px;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+}
+.npm{
+    width: 900px;
+    transform: translateY(120px) translateX(250px);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+.box4{
+    transform: translateY(200px) translateX(250px);
+    width: 900px;
+    height: 75px;
+    border: 1px solid #C4C9D5;  
+}
+.box5{
+    transform: translateY(220px) translateX(250px);
+    width: 900px;
+    height: 75px;
+    border: 1px solid #C4C9D5;  
+}
+.box6{
+    transform: translateY(240px) translateX(250px);
+    width: 900px;
+    height: 75px;
+    border: 1px solid #C4C9D5;  
+}
