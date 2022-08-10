@@ -128,3 +128,68 @@
     line-height: 2rem;
     transform: translateX(250px) translateY(50px);
 }
+.wrapper > h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    transform: translateY(750px);
+}
+.wrapper > p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    width: 500px;
+    line-height: 42px;
+    color: #000000;
+    transform: translateY(777px) translateX(250px);
+}
+.div1{
+    position: absolute;
+    width: 950px;
+    height: 175px;
+    border: 1px solid #C4C9D5;
+    transform: translateY(780px) translateX(250px);
+}
+.div1 > p{
+    width: 800px;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    color: #000000;
+    transform: translateX(220px) translateY(-30px);
+}
+.div2{
+    position: absolute;
+    width: 950px;
+    height: 175px;
+    border: 1px solid #C4C9D5;
+    transform: translateY(983px) translateX(250px);
+}
+.div2 > p{
+    width: 800px;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    color: #000000;
+    transform: translateX(220px) translateY(-30px);
+}
+.div3{
+    position: absolute;
+    width: 950px;
+    height: 175px;
+    border: 1px solid #C4C9D5;
+    transform: translateY(1193px) translateX(250px);
+}
+.div3 > p{
+    width: 800px;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    color: #000000;
+    transform: translateX(220px) translateY(-30px);
+}
