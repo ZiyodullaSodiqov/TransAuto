@@ -193,3 +193,20 @@
     color: #000000;
     transform: translateX(220px) translateY(-30px);
 }
+.main_header{
+    width: 100%;
+}
+.main_header > h2{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    color: #000000;
+    transform: translateY(1500px);
+}
+.main_header > p{
+    width: 900px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+    transform: translate( 250px ,1550px);
+}
